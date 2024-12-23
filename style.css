@@ -182,7 +182,7 @@ body::-webkit-scrollbar-thumb {
   }
   
   .heropage {
-    background-image: url(heh.jpeg);
+    background-image: url(./hi/heh.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
